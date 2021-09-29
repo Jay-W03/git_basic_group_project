@@ -5,7 +5,7 @@ public class Main {
 
         int result = 9 - 1;
 
-        System.out.println("2 + 6 = " + result);
+        System.out.println("6 + 2 = " + result);
     }
 
 }
